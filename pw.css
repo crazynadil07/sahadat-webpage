@@ -1,0 +1,39 @@
+*
+.body{
+    background-color: black;
+}
+.h1
+{
+    color: aliceblue;
+    text-align: center;
+    font-style: unset;
+    font-size: 50px;
+}
+.p-bio
+{
+    color: rgb(193, 193, 230);
+    text-size-adjust: 50px;
+    text-align: left;
+    font-size: 20px;
+}
+.h4-li
+{
+    text-align: left;
+    color: azure;
+}
+.img-logo
+{
+    float: right;
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    margin-top: 50px;
+    margin-right: 20px;
+}
+.h6
+{
+    color: blanchedalmond;
+    text-align: center;
+    font-family: Ink Free;
+    font-size: 15px;
+}
